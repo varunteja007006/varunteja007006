@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <img src="https://giphy.com/embed/YnexM9LwlwGu4Z1QnS" />
-</div>
 
 
 <!--
