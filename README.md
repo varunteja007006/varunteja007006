@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I love to work with different tech stacks, both front-end and back-end. I have hands-on experience with various programming languages and frameworks, such as JavaScript, React JS, Node JS, MongoDB, HTML, CSS (Bootstrap & Tailwind), MERN stack, Django, Python, MySQL, PHP, AND tools like GIT, Tortoise SVN, SonarQube and Jenkins.<br><br>Currently, I work as System Engineer for SuccessFactors HXM platform development, developing custom responsive interfaces tailored to meet client requirements. I am keen to expand my domain in other fields of technology. Therefore I am open to opportunities.<br><br>I love developing web apps and python scripting for automation & day-to-day tasks that can be made easy with python. I am always eager to explore new technologies and I keep myself relevant technologies.</p>
+<p align="left">I love to work with different tech stacks, both front-end and back-end. I have hands-on experience with various programming languages and frameworks, such as JavaScript, React JS, Node JS, MongoDB, HTML, CSS (Bootstrap & Tailwind), MERN stack, Django, Python, MySQL, PHP, AND tools like GIT, Tortoise SVN, SonarQube and Jenkins.<br><br>Currently, I work as System Engineer for SuccessFactors HXM platform development, developing custom responsive interfaces tailored to meet client requirements. I am keen to expand my domain in other fields of technology. Therefore I am open to opportunities.<br><br>I love developing web apps and python scripting for automation & day-to-day tasks that can be made easy with python. I am always eager to explore new technologies and I keep myself relevant technologies.</p>
 
 ###
 
