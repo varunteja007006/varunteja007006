@@ -10,11 +10,32 @@
 
 ###
 
-<p align="left">I love to work with different tech stacks, both front-end and back-end. I have hands-on experience with various programming languages and frameworks, such as JavaScript, React JS, Node JS, MongoDB, HTML, CSS (Bootstrap & Tailwind), MERN stack, Django, Python, MySQL, PHP, AND tools like GIT, Tortoise SVN, SonarQube and Jenkins.
-<br>
-  I currently work as a Full Stack Developer in Invest4Edu, an Education and Financial Services related startup.
-<br>I love developing web apps and python scripting for automation & day-to-day tasks that can be made easy with python. I am always eager to explore new technologies and I keep myself relevant technologies.</p>
+<p align="left">
 
+I'm a Full Stack Developer who loves to build amazing web apps with cutting-edge technologies. 
+<br>
+<br>
+👩‍💻 I have experience with various programming languages and frameworks, such as JavaScript, React JS, Node JS, MongoDB, HTML, CSS (Bootstrap & Tailwind), MERN stack, Django, Python, MySQL, PHP, and more.
+<br>
+<br>
+🛠 I also use tools like GIT, Tortoise SVN, SonarQube and Jenkins to ensure code quality and efficiency.
+<br>
+<br>
+🚀 I currently work at Invest4Edu, an Education and Financial Services startup that empowers the parents and their child's dream by not just providing career guidance but also financial guidance.
+<br>
+<br>
+🐍 I enjoy python scripting for automation and simplifying day-to-day tasks. I'm always curious to learn new things and keep myself updated with the latest trends.
+<br>
+<br>
+🌱 I'm passionate about open source and contributing to the community. You can check out some of my projects and repositories below.
+<br>
+<br>
+📫 You can reach me at varunteja007006@gmail.com or call me at 7893798770.
+<br>
+<br>
+😄 Thanks for visiting my profile and have a great day!
+<br>
+<br>
 ###
 
 <h2 align="left">Social Links</h2>
