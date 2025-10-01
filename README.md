@@ -20,4 +20,6 @@ I'm a Full Stack Developer who loves to build amazing web apps with cutting-edge
 
 🤝 You can also connect with me on [**LinkedIn**](www.linkedin.com/in/varunteja007006)
 
+🔗 For more about me visit my website **https://varunteja007006.netlify.app/**
+
 😄 Thanks for visiting my profile and have a great day!!
