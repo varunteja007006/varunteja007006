@@ -14,7 +14,7 @@ I'm a Full Stack Developer who loves to build amazing web apps with cutting-edge
 
 🚀 I currently work at RNTBCI as a senior software engineer, developing AI powered products to increase business efficiency.
 
-🌱 I'm passionate about coding and contributing to open source.
+🌱 I love coding and contributing to open source.
 
 📫 You can reach out to me via email at **varunteja007006@gmail.com** or call me at **+91 7893798770**.
 
