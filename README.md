@@ -22,4 +22,4 @@ I'm a Full Stack Developer who loves to build amazing web apps with cutting-edge
 
 🔗 For more about me visit my website **https://varunteja007006.netlify.app/**
 
-😄 Thanks for visiting my profile and have a great day!!
+😄 Thanks for visiting my profile, have a great day!!
