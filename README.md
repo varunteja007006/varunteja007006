@@ -24,7 +24,7 @@ I'm a Full Stack Developer who loves to build amazing web apps with cutting-edge
 
 ### Selected Projects
 
-- [Fleetio](https://github.com/varunteja007006/fleetio) — fleet management app for mobile and web.
+- [Buildio](https://github.com/varunteja007006/buildio) — my Buildio.pro website and domain project.
 - [YT Next](https://github.com/varunteja007006/yt-next) — local YouTube library and downloader.
 - [Poker Planner](https://github.com/varunteja007006/poker-planner) — collaborative planning poker app.
 - [Twitter Sentiment Analysis](https://github.com/varunteja007006/twitter-sentiment-analysis) — Django app for analyzing political tweets.
