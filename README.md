@@ -18,8 +18,15 @@ I'm a Full Stack Developer who loves to build amazing web apps with cutting-edge
 
 📫 You can reach out to me via email at **varunteja007006@gmail.com** or call me at **+91 7893798770**.
 
-🤝 You can also connect with me on [**LinkedIn**](www.linkedin.com/in/varunteja007006)
+🤝 You can also connect with me on [**LinkedIn**](https://www.linkedin.com/in/varunteja007006)
 
 🔗 For more about me visit my website **https://varunteja007006.netlify.app/**
+
+### Selected Projects
+
+- [Fleetio](https://github.com/varunteja007006/fleetio) — fleet management app for mobile and web.
+- [YT Next](https://github.com/varunteja007006/yt-next) — local YouTube library and downloader.
+- [Poker Planner](https://github.com/varunteja007006/poker-planner) — collaborative planning poker app.
+- [Twitter Sentiment Analysis](https://github.com/varunteja007006/twitter-sentiment-analysis) — Django app for analyzing political tweets.
 
 😄 Thanks for visiting my profile, have a great day!!
